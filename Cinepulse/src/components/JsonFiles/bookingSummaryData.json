@@ -1,0 +1,11 @@
+{
+  "movieTitle": "Inception",
+  "theater": "IMAX, Downtown",
+  "date": "2024-08-15",
+  "time": "7:30 PM",
+  "ticketCount": 2,
+  "ticketPrice": 250,
+  "convenienceFee": 30,
+  "totalAmount": 530,
+  "seatNumbers": ["A1", "A2"]
+}

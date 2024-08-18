@@ -1,0 +1,60 @@
+.mydiv{
+  margin-left: 5px;
+}
+.Maindiv{
+ columns: 200px;
+}
+.mybtn{
+  margin:3px;
+}
+.Mainh3{
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: serif;
+
+
+}
+.myselect{
+  width: 150px;
+  margin-left: 10px;
+}
+.myimg{
+  padding: 10px;
+  margin-left: 20px;
+  width: 1400px;
+  height: 100px;
+}
+.myupcoming{
+  width: 1300px;
+  margin-left: 60px;
+
+}
+
+.maindiv{
+  background-color: rgb(217, 252, 252);
+padding: 20px;
+}
+.myh4{
+  padding-left: 20px;
+  padding-top: 3px;
+ font: bolder;
+ font-weight: 700;
+
+}
+.myh6{
+  padding-left: 900px;
+  padding-top: 8px;
+ font: bolder;
+ font-weight: 700;
+}
+
+.mycur{
+  cursor:pointer;
+}
+
+.selected-filter {
+  background-color: #007bff;
+  color: white;
+}
+

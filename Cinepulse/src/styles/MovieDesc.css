@@ -1,0 +1,44 @@
+.movie-container {
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  border-radius: 16px;
+  color: white;
+}
+
+.movie-img {
+  border-radius: 16px 16px 0 0;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.myabout{
+  
+  padding-left: 70px;
+  padding-right: 200px;
+}
+
+h3.myabout{
+  padding-top: 100px;
+}
+
+.myrat{
+  padding-left: 60px;
+}
+
+.myrat .MuiRating-iconEmpty {
+  color: white; /* Set the color of unselected stars to white */
+}
+
+.rath5{
+  padding-top: 5px;
+
+
+}

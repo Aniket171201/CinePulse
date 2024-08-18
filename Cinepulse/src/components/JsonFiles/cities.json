@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Mumbai",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/mumbai-selected.png"
+  },
+  {
+    "city": "Delhi-NCR",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/ncr.png"
+  },
+  {
+    "city": "Bengaluru",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/bang.png"
+  },
+  {
+    "city": "Hyderabad",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/hyd.png"
+  },
+  {
+    "city": "Chandigarh",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/chd.png"
+  },
+  {
+    "city": "Ahmedabad",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/ahd.png"
+  },
+  {
+    "city": "Chennai",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/chen.png"
+  },
+  {
+    "city": "Pune",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/pune.png"
+  },
+  {
+    "city": "Kolkata",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/kolk.png"
+  },
+  {
+    "city": "Kochi",
+    "imgSrc": "//in.bmscdn.com/m6/images/common-modules/regions/koch.png"
+  }
+]

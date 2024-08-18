@@ -1,0 +1,67 @@
+/* BookingSummary.css */
+
+.Booking-container {
+  max-width: 500px;
+  padding: 20px;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  color: brown;
+  margin-bottom: 20px;
+}
+
+.head-details {
+  font-family: Arial, sans-serif;
+  margin-bottom: 20px;
+}
+
+.details {
+  color: brown;
+  font-family: Arial, sans-serif;
+}
+
+.separator {
+  margin: 20px 0;
+  height: 1px;
+  background-color: #ddd;
+}
+
+.total-amount {
+  background-color: antiquewhite;
+  font-weight: bold;
+  color: #333;
+  font-size: 18px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.thankyou {
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  color: green;
+  margin-top: 20px;
+}
+
+.proceed-button {
+  margin-top: 10px;
+}
+
+.footer-img {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+/* Hide elements with .no-print class when printing */
+@media print {
+  .no-print {
+    display: none;
+  }
+}

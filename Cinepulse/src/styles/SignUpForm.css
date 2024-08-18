@@ -1,0 +1,89 @@
+/* Container for the entire sign-up page with background image */
+.signup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: url('src/IMG/Baground.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding: 20px;
+}
+
+
+/* Container for the sign-up form */
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.75); /* Slightly transparent dark background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  color: #fff;
+  width: 100%;
+  max-width: 360px;
+}
+
+/* Heading style */
+.signup-form h2 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+
+/* Form styling */
+.signup-form form {
+  width: 100%;
+}
+
+/* Input fields */
+.signup-form input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background: #222;
+  color: #fff;
+}
+
+/* Button styling */
+.signup-form button {
+  width: 100%;
+  padding: 15px;
+  background-color: #e50914; /* Red color */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.signup-form button:hover {
+  background-color: #f40612; /* Darker red on hover */
+}
+
+/* Footer links */
+.signup-form-footer {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.signup-form-footer a {
+  color: #ddd;
+  text-decoration: none;
+}
+
+.signup-form-footer a:hover {
+  text-decoration: underline;
+}
+
+.signup-form-footer p {
+  margin: 10px 0;
+  color: #ddd;
+  font-size: 14px;
+}

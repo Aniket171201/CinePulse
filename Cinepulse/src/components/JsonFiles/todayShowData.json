@@ -1,0 +1,35 @@
+{
+  "dates": [
+    { "day": "14 AUG", "weekday": "WED" },
+    { "day": "15 AUG", "weekday": "THU" },
+    { "day": "16 AUG", "weekday": "FRI" },
+    { "day": "17 AUG", "weekday": "SAT" },
+    { "day": "18 AUG", "weekday": "SUN" }
+  ],
+  "shows": [
+    {
+      "title": "AB Miniplex: Shivranjini Cross Road, Satellite",
+      "cancellationPolicy": "Non-cancellable",
+      "timings": [
+        { "time": "09:30 AM", "format": "Executive", "available": false },
+        { "time": "11:30 AM", "format": "2D", "available": true }
+      ]
+    },
+    {
+      "title": "AB Miniplex: Shivranjini Cross Road, Satellite",
+      "cancellationPolicy": "Non-cancellable",
+      "timings": [
+        { "time": "02:30 PM", "format": "2D", "available": true },
+        { "time": "05:30 PM", "format": "2D", "available": true }
+      ]
+    },
+    {
+      "title": "AB Miniplex: Shivranjini Cross Road, Satellite",
+      "cancellationPolicy": "Non-cancellable",
+      "timings": [
+        { "time": "09:30 PM", "format": "2Ticket=1BED", "available": true },
+        { "time": "11:20 PM", "format": "2D", "available": true }
+      ]
+    }
+  ]
+}

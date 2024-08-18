@@ -1,0 +1,15 @@
+.Main{
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  
+  
+  
+}
+.Mypost{
+  width: 18rem;
+}
+
+.Post-Card{
+  margin: 20px 50px;
+}

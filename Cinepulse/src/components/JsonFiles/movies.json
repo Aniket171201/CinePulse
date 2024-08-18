@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Martin",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/martin-et00328827-1677137256.jpg",
+    "description": "Action thriller, love, and patriotism.",
+    "releaseDate": "2024/09/11"
+  },
+  {
+    "id": 2,
+    "title": "Devara",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/devara--part-1-et00310216-1712750637.jpg",
+    "description": "Jr. NTR, Saif Ali Khan.",
+    "releaseDate": "2024/09/27"
+  },
+  {
+    "id": 3,
+    "title": "Joker",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/joker-folie-a-deux-et00352820-1712125522.jpg",
+    "description": "Smiling, world smiles with you.",
+    "releaseDate": "2024/10/04"
+  },
+  {
+    "id": 4,
+    "title": "Kanguva",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kanguva-et00357490-1711005979.jpg",
+    "description": "Tamil film, Suriya, Disha Patani.",
+    "releaseDate": "2024/10/10"
+  },
+  {
+    "id": 5,
+    "title": "Emergency",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/emergency-et00334219-1663329238.jpg",
+    "description": "True events under Indira Gandhi.",
+    "releaseDate": "2024/09/06"
+  },
+  {
+    "id": 6,
+    "title": "BadAss Ravikumar",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/badass-ravikumar-et00343879-1667465579.jpg",
+    "description": "Himesh vs. ten villains.",
+    "releaseDate": "2002/09/11"
+  },
+  {
+    "id": 7,
+    "title": "They call him OG",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/they-call-him-og-et00369074-1694079660.jpg",
+    "description": "Devastating storm, lasting blood bath.",
+    "releaseDate": "2024/09/27"
+  },
+  {
+    "id": 8,
+    "title": "The greatest of all time",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-greatest-of-all-time-et00401439-1718273913.jpg",
+    "description": "Vijay and Meenakshi, multilingual film.",
+    "releaseDate": "2024/09/05"
+  },
+  {
+    "id": 9,
+    "title": "Saripodhaa Shanivaram",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/saripodhaa-sanivaaram-et00388631-1708930060.jpg",
+    "description": "Massive storm hitting theaters worldwide.",
+    "releaseDate": "2024/08/29"
+  },
+  {
+    "id": 10,
+    "title": "Dharmaveer 2",
+    "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dharmaveer-2-et00403175-1719817449.jpg",
+    "description": "Saga of Anand Dighe, politics.",
+    "releaseDate": "2024/09/27"
+  }
+]

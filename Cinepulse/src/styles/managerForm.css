@@ -1,0 +1,28 @@
+.associate-movie-form {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.associate-movie-form h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.associate-movie-form .form-label {
+  color: #555;
+}
+
+.btn-primary {
+  background-color: #3da414;
+  border-color: #3da414;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #a44914;
+  border-color: #a44914;
+}
+
